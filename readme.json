@@ -1,0 +1,146 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "2015",
+   "children": [
+        {"name": "Denver", "size": 66519},
+        {"name": "Chesapeake", "size": 44828},
+        {"name": "Boston", "size": 42430},
+        {"name": "New York", "size": 37056},
+        {"name": "Ohio", "size": 19116},
+        {"name": "Charlotte", "size": 15980},
+        {"name": "Florida", "size": 11286},
+        {"name": "Rochester", "size": 8313}
+                ]
+    },
+ 
+    {
+    "name": "2014",
+    "children": [
+        {"name": "Denver","size": 72686},
+        {"name": "Chesapeake","size": 44313},
+        {"name": "Boston","size": 52317},
+        {"name": "New York","size": 30904},
+        {"name": "Ohio","size": 22539},
+        {"name": "Charlotte","size": 26062},
+        {"name": "Florida","size": 8433},
+        {"name": "Rochester","size": 9303}
+                ]
+    },
+ 
+    {
+    "name": "2013",
+    "children": [
+        {"name": "Denver","size": 66263},
+        {"name": "Chesapeake","size": 60172},
+        {"name": "Boston","size": 57079},
+        {"name": "New York","size": 23498},
+        {"name": "Ohio","size": 21183},
+        {"name": "Charlotte","size": 26706},
+        {"name": "Hamilton","size": 15031},
+        {"name": "Rochester","size": 13943}
+                ]
+    },
+ 
+ {
+    "name": "2012",
+    "children": [
+        {"name": "Denver","size": 59471},
+        {"name": "Chesapeake","size": 66668},
+        {"name": "Boston","size": 67534},
+        {"name": "Long Island","size": 17147},
+        {"name": "Ohio","size": 24876},
+        {"name": "Charlotte","size": 39988},
+        {"name": "Hamilton","size": 12864},
+        {"name": "Rochester","size": 25548}
+                ]
+    },
+	
+	{
+    "name": "2011",
+    "children": [
+        {"name": "Denver","size": 73989},
+        {"name": "Chesapeake","size": 48968},
+        {"name": "Boston","size": 57971},
+        {"name": "Long Island","size": 22966},
+        {"name": "Hamilton","size": 7287},
+        {"name": "Rochester","size": 25842}
+                ]
+    },
+	
+	{
+    "name": "2010",
+    "children": [
+        {"name": "Denver","size": 64669},
+        {"name": "Chesapeake","size": 26474},
+        {"name": "Boston","size": 49540},
+        {"name": "Long Island","size": 18786},
+        {"name": "Toronto","size": 18479},
+        {"name": "Chicago","size": 14185}
+                ]
+    },
+	
+	{
+    "name": "2009",
+    "children": [
+        {"name": "Denver","size": 60764},
+        {"name": "Washington","size": 26518},
+        {"name": "Boston","size": 48478},
+        {"name": "Long Island","size": 25822},
+        {"name": "Toronto","size": 23080},
+        {"name": "Chicago","size": 15414}
+                ]
+    },
+	
+	{
+    "name": "2008",
+    "children": [
+        {"name": "Denver","size": 65118},
+        {"name": "Washington","size": 24926},
+        {"name": "Boston","size": 58191},
+        {"name": "Los Angeles","size": 21885},
+        {"name": "Long Island","size": 21330},
+        {"name": "Barrage","size": 17573},
+        {"name": "San Francisco","size": 16851},
+        {"name": "Rochester","size": 20430},
+		{"name": "Chicago","size": 13116},
+		{"name": "New Jersey","size": 11522}
+                ]
+    },
+	
+	{
+    "name": "2007",
+    "children": [
+        {"name": "Denver","size": 63552},
+        {"name": "Washington","size": 16879},
+        {"name": "Boston","size": 51551},
+        {"name": "Los Angeles","size": 21799},
+        {"name": "Long Island","size": 26588},
+        {"name": "Philadelphia","size": 13756},
+        {"name": "San Francisco","size": 18752},
+        {"name": "Rochester","size": 23563},
+		{"name": "Chicago","size": 13460},
+		{"name": "New Jersey","size": 15883}
+                ]
+    },
+	
+	{
+	"name": "2006",
+    "children": [
+        {"name": "Denver","size": 69806},
+        {"name": "Rochester","size": 23620},
+        {"name": "Boston","size": 35417},
+        {"name": "Los Angeles","size": 25188},
+        {"name": "Long Island","size": 18811},
+        {"name": "Philadelphia","size": 14488},
+        {"name": "San Francisco","size": 20286},
+		{"name": "Baltimore","size": 17841},
+		{"name": "Chicago","size": 13460},
+		{"name": "New Jersey","size": 19045}
+                ]
+    }
+ ]
+ }
+ 
+ 
